@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MonumentDroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MonumentDroid</string>
+	<string name="mapKey">0AsBgGd016068VqVvQU6_rGB4H80r6zYGvf8wzA</string>
+</resources>
